@@ -714,9 +714,10 @@ footer {
         text-align: center;
     }
 
-   img[src="image/cat1.webp"] {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
+   .cat-image {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    display: block !important;
 }
