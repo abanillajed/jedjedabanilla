@@ -714,8 +714,7 @@ footer {
         text-align: center;
     }
 
-}
-.profile-img {
+   img[src="image/cat1.webp"] {
     width: 150px;
     height: 150px;
     border-radius: 50%;
